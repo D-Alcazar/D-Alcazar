@@ -3,27 +3,22 @@
 Hi there! I'm a bionic engineering student at UPIITA, part of the Instituto Politécnico Nacional, based in Mexico City. I have a passion for programming and I'm proficient in HTML, CSS, C, C++, Python, SQL, and JavaScript. Currently, I'm diving into the fascinating world of data science.
 
 ## 🔭 I’m currently working on
-- Exploring data science projects and applying machine learning techniques.
 - Enhancing my programming skills through personal projects.
 
 ## 🌱 I’m currently learning
-- Data Science methodologies and tools.
 - Advanced programming concepts to deepen my expertise.
 
 ## 👯 I’m looking to collaborate on
-- Open source projects related to data science and programming.
 - Any project that help me expand my portfolio.
 
 ## 🤔 I’m looking for help with
-- Advanced topics in data science.
 - Best practices in programming and software development.
-- How to start working as a Data Scientist or Data Engineer
 
 ## 💬 Ask me about
 - Anything related to bionic engineering, programming, or my learning journey in data science.
 
 ## 📫 How to reach me
-- Feel free to drop me an [email](mailto:dan_alcazar.espinosa@live.com).
+- Feel free to drop me an [email](mailto:dalcazare1500@alumno.ipn.mx).
 <!-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/). --> 
 
 ## 😄 Pronouns
