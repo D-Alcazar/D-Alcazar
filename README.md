@@ -1,34 +1,25 @@
 # Welcome to My Personal Repository! 👋
 
-Hi there! I'm a bionic engineering student at UPIITA, part of the Instituto Politécnico Nacional, based in Mexico City. I have a passion for programming and I'm proficient in HTML, CSS, C, C++, Python, SQL, and JavaScript. Currently, I'm diving into the fascinating world of data science.
+Hi there! I'm a bionic engineering student at UPIITA, part of the Instituto Politécnico Nacional, based in Mexico City. I have a passion for programming and I'm proficient in Python, JavaScript, HTML, CSS, C# and SQL. Currently, I'm diving into the fascinating world of data science.
 
 ## 🔭 I’m currently working on
-- Enhancing my programming skills through personal projects.
+- Enhancing my programming skills through odoo projects.
 
 ## 🌱 I’m currently learning
-- Advanced programming concepts to deepen my expertise.
+- Advanced programming concepts to deepen my expertise about odoo and sap development.
 
 ## 👯 I’m looking to collaborate on
-- Any project that help me expand my portfolio.
+- Any project that help me expand my portfolio, preferably python.
 
 ## 🤔 I’m looking for help with
-- Best practices in programming and software development.
+- Deepen in my knowledge with SAP development.
 
 ## 💬 Ask me about
-- Anything related to bionic engineering, programming, or my learning journey in data science.
+- Anything related to bionic engineering, programming, robotics.
 
 ## 📫 How to reach me
-- Feel free to drop me an [email](mailto:dalcazare1500@alumno.ipn.mx).
+- Feel free to drop me an [email](mailto:d.alcazar@icloud.com).
 <!-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/). --> 
-
-## 😄 Pronouns
-- He/Him
-<!--
-## ⚡ Fun fact
-- Did you know that the first computer programmer was a woman? Ada Lovelace wrote the first algorithm for Charles Babbage's Analytical Engine in the 1840s.
--->
-Thanks for stopping by! Feel free to explore my projects and reach out if you have any questions or collaboration ideas. 🚀
-
 
 
 <!--
